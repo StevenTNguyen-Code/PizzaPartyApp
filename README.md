@@ -1,2 +1,1 @@
-# PizzaPartyApp
-CS646 Pizza Party App
+This is the Pizza Party App for CS646 Mobile Application Development by Steven Thanhtan Nguyen
